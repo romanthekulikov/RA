@@ -1,0 +1,5 @@
+BASE_URL = "http://shop.qatl.ru/"
+LIST_OF_PRODUCTS = BASE_URL + "/api/products"
+DELETED_PRODUCT = BASE_URL + "/api/deleteproduct?id="
+ADD_PRODUCT = BASE_URL + "/api/addproduct"
+EDIT_PRODUCT = BASE_URL + "/api/editproduct"

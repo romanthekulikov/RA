@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="TriangleAnalyser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TriangleAnalyser_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TriangleAnalyser.jar">
+        <element id="module-output" name="TriangleAnalyser" />
+      </element>
+    </root>
+  </artifact>
+</component>

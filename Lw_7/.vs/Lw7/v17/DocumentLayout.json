@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|solutionrelative:Lw7\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\Lw7.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|solutionrelative:Lw7\\Lw7.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\CurrencyConverter.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|solutionrelative:Lw7\\CurrencyConverter.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\APIHandler.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7003F079-C274-4134-A743-91EEA49A6849}|Lw7\\Lw7.pyproj|solutionrelative:Lw7\\APIHandler.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lw7.py",
+              "DocumentMoniker": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\Lw7.py",
+              "RelativeDocumentMoniker": "Lw7\\Lw7.py",
+              "ToolTip": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\Lw7.py",
+              "RelativeToolTip": "Lw7\\Lw7.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T09:41:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tests.py",
+              "DocumentMoniker": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\tests.py",
+              "RelativeDocumentMoniker": "Lw7\\tests.py",
+              "ToolTip": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\tests.py",
+              "RelativeToolTip": "Lw7\\tests.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T09:41:20.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIHandler.py",
+              "DocumentMoniker": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\APIHandler.py",
+              "RelativeDocumentMoniker": "Lw7\\APIHandler.py",
+              "ToolTip": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\APIHandler.py",
+              "RelativeToolTip": "Lw7\\APIHandler.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T09:41:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyConverter.py",
+              "DocumentMoniker": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\CurrencyConverter.py",
+              "RelativeDocumentMoniker": "Lw7\\CurrencyConverter.py",
+              "ToolTip": "C:\\Users\\dvnt\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417\\3_\u043A\u0443\u0440\u0441\\\u0414\u043B\u044F \u0420\u043E\u043C\u043A\u0438\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Quality_control(\u041A\u043E\u043D\u0442\u0440. \u043A\u0430\u0447\u0435\u0441\u0442.)\\Lw7_2\\Lw_7\\Lw7\\CurrencyConverter.py",
+              "RelativeToolTip": "Lw7\\CurrencyConverter.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-29T09:41:20.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
